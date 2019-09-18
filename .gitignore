@@ -1,0 +1,7 @@
+test
+build/
+*.root
+recalib_params
+adcParams
+pdfs
+pics
